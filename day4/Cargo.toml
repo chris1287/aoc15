@@ -1,0 +1,9 @@
+[package]
+name = "day4"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+md5.workspace = true
+rayon.workspace = true
+
